@@ -1,3 +1,9 @@
-.Pokdex-cards {
+.Pokedex-cards {
     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedex h1 {
+    text-align: center;
 }
