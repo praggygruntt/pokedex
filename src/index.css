@@ -1,8 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Kodchasan&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: 'Kodchasan';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #3D7DCA;
@@ -12,4 +12,10 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+hr {
+  color: black;
+  border: 1px solid black;
+  width: 80%;
 }
